@@ -309,15 +309,20 @@ footer p {
   #about{
     display: flex;
     flex-direction: row;
+    gap: 12px;
   }
   
   .pool-img{
-    
+    display: block;
     width: 25%;
+    margin-left: auto;
+    margin-right: auto;
   }
   .stone-img{
-    
+    display: block;
     width: 25%;
+    margin-left: auto;
+    margin-right: auto;
   }
   .about-p{
     display:flex;
