@@ -365,13 +365,13 @@ footer p {
   width: 100%;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 480px) {
   .column {
     flex: 100%;
     max-width: 100%;
   }
 }
-@media screen and (min-width: 600px) {
+@media screen and (min-width: 480px) {
   .column {
     flex: 45%;
     max-width: 45%;
